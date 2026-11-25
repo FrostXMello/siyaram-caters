@@ -55,8 +55,8 @@ export const menuCategories: readonly MenuCategory[] = [
     name: "Breads",
     blurb: "All made to order, not stacked and kept for hours.",
     items: ["Tandoori roti", "Butter naan", "Missi roti", "Lachha paratha"],
-    image: "/images/naan.jpg",
-    imageAlt: "Freshly made Indian breads",
+    image: "/images/thali.jpg",
+    imageAlt: "Rotis and accompaniments on a Rajasthani table",
   },
 ];
 
