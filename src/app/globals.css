@@ -43,10 +43,18 @@ body {
 }
 
 #story,
-#mithai,
-#feasts,
-#gatherings,
-#jaipur {
+#explore,
+#catering,
+#sweets,
+#restaurant,
+#venues,
+#events,
+#areas,
+#gallery,
+#values,
+#voices,
+#stories,
+#contact {
   scroll-margin-top: 5.5rem;
 }
 
